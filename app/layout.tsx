@@ -11,7 +11,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 
 export const metadata: Metadata = {
   title: "Prajekpro",
-  description: "Prajekpro is a modern platform for everyone",
+  description: "Prajekpro is your number one source for service Pros in the Philippines",
   icons: {
     icon: '/icons/logo.svg'
   }
